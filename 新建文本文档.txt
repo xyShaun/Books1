@@ -1,2 +1,0 @@
-pos+forward
-鼠标位置：directinput（相对坐标）  比win api ：getCursorPos（绝对坐标）效率高
